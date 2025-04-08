@@ -3,7 +3,7 @@
 - 🗣︎ Language
   - Chinese
   - English OK
-  - a bit German
+  - a bit of German
 - 👀 I’m interested in
   - Programming
   - Art
@@ -21,7 +21,7 @@
   - Linux(planning)
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me
-  - you can send email to me(please explain the purpose) : Aflocathought@outlook.com
+  - you can send email to me(please attach the purpose) : Aflocathought@outlook.com
 - 😄 Pronouns: any you want
 - ⚡ Fun fact: There's no fun fact.
 
